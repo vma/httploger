@@ -5,7 +5,7 @@
 It comes  with `CommonLogger` and `CombinedLogger` middlewares wich logs the requests
 in Apache CommonLoger and CombinedLogger format respectively.
 
-These middlewares are ported from [gorilla handlers] (https://github.com/gorilla/handlers)
+These middlewares are ported from [gorilla handlers](https://github.com/gorilla/handlers)
 
 **Installation**
 
